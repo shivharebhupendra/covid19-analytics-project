@@ -84,3 +84,10 @@
 - Use drill-through to analyze country-level details.
 
 - Explore bookmarks to switch between cases, deaths, vaccinations, tests views.
+
+---
+
+## Important Note: To Create BigQuery Setup You Can refer this Guided Project (From Coursera)
+[Coursera](https://www.coursera.org/projects/working-with-bigquery?utm_medium=sem&utm_source=gg&utm_campaign=b2c_india_x_coursera_ftcof_courseraplus_cx_dr_bau_gg_sem_bd-ex_in_all_m_hyb_24-05_x&campaignid=21327429274&adgroupid=162815312357&device=c&keyword=coursera&matchtype=e&network=g&devicemodel=&creativeid=700607287640&assetgroupid=&targetid=kwd-36262515261&extensionid=&placement=&gad_source=1&gad_campaignid=21327429274&gbraid=0AAAAADdKX6bi1n8u_8RdNntJRvxw6f-A9&gclid=Cj0KCQjw_L_FBhDmARIsAItqgt6w92Y1gSC1rltznUq6i0md8tE6TI0GZFbvaYe-2_F8dUs1Ln0GdxAaAqVPEALw_wcB)
+
+You Can Connect bigquery --> PowerBI by using Get Data Field
