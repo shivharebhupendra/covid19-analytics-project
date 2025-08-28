@@ -18,7 +18,7 @@
 
 🔹 Data Source
 
-- Dataset: covid19 (You can view and download from here:)(https://drive.google.com/file/d/1BH-xjWXT5kRS7VBf65riWwanU4LsXN76/view?usp=sharing)
+- Dataset: covid19, You can view and download from here: [Covid19](https://drive.google.com/file/d/1BH-xjWXT5kRS7VBf65riWwanU4LsXN76/view?usp=sharing)
 
 - Data Mode: DirectQuery (live connection to BigQuery for real-time updates)
 
